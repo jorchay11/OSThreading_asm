@@ -1,0 +1,1 @@
+"./Kernel.obj" "./Lock.obj" "./OS.obj" "./OSasm.obj" "./Threads.obj" "./UART.obj" "./startup_msp432p401r_ccs.obj" "./system_msp432p401r.obj" "../msp432p401r.cmd" -llibc.a 
